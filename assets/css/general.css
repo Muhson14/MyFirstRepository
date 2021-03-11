@@ -1,0 +1,134 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html{
+  position: relative;
+  min-height: 100%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+  
+}
+
+.footer .container p {
+  margin: 10px 0;
+}
+
+.mtop{
+    margin-top: 10px;
+}
+.nw {
+    white-space: nowrap;
+}
+.aw{
+    width: auto;
+}
+.nav-tabs{
+    margin-bottom: 20px;
+}
+
+.table .thumbnail{
+    margin: 0;
+}
+
+.panel-footer .pagination {
+    margin: 0;
+}
+
+.page-header {
+    margin-top: 0;
+    padding-bottom: 0;
+}
+.page-header h1 {
+    margin-top: 0;
+}
+
+.oxa {
+    overflow-x: auto;
+}
+.panel .oxa {
+    margin: -1px;
+}
+.oxa .table{
+    margin-bottom: 0;
+}
+.panel .oxa .table thead tr:first-child th {
+    border-bottom: 0;
+}
+
+.bg-footer { 
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+}
+.fluid {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.mm_link {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: #33cc33;
+    color:white;
+    border: solid;
+    font-size: 22px;
+    padding: 26px 164px;
+}
+
+.mm_link:hover {
+    background-color: #66ff66;
+    text-decoration: none;
+    color: black;
+
+}
+
+.mm_margin {
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.bg {
+    background: url('../images/bgk.jpg')no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;;
+}
+
+.bg2 {
+    background: url('../images/bgk.jpg')no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;;
+}
+
+.judulhome {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.white {
+    color: white;
+}
+
+.a {
+    padding-right: 186px;
+}
+
+.b {
+    padding-right: 210px;
+}
+
+.c {
+    padding: 186px 0px;
+}
+
+.d {
+    padding-right: 213px;
+}
